@@ -35,7 +35,7 @@ This project showcases a no-code/low-code AI agent built using <b>n8n</b>, desig
 <br><br>
 
 <b>📸 Screenshots</b><br>
-<img src="https://drive.google.com/file/d/1Ap5Cd_nU_Jup5l2Rsj7K6q_a6hxGN-hA/view?usp=sharing" alt="n8n Workflow" width="600"/><br>
+Link :- https://drive.google.com/file/d/1Ap5Cd_nU_Jup5l2Rsj7K6q_a6hxGN-hA/view?usp=sharing
 <i>n8n visual workflow for Reddit scraping</i>
 
 <br><br>
@@ -45,7 +45,7 @@ You can import the workflow using the `.json` file provided in this repository.
 <br>
 To import:
 1. Open your local/self-hosted n8n instance  
-2. Click on "Import" and upload the `reddit-scraper.json` file  
+2. Click on "Import" and upload the `My_workflow.json` file  
 3. Set up any required credentials or environment variables  
 
 <br><br>
@@ -65,15 +65,8 @@ To import:
 
 <br><br>
 
-<b>🚀 Future Enhancements</b><br>
-- Add summarization using OpenAI or DeepSeek  
-- Push updates to a real-time dashboard  
-- Add logging and retry logic  
-
-<br><br>
-
 <b>🤝 Connect With Me</b><br>
-Created by <b>Akash</b>  
-📧 Email: your-email@example.com  
+Created by <b>Rishav</b>  
+📧 Email: rishavdewan10@gmail.com  
 🌐 LinkedIn: RISHAV DEWAN (https://www.linkedin.com/in/rishav-dewan/)
 ⭐ If you find this useful, consider giving this repo a star!
